@@ -1,0 +1,21 @@
+body{
+    background-image: url(../imagenes/background-banner.jpg);
+    color: white;
+    opacity: 20vh;
+}
+
+.imgv{
+    opacity: 30% ;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    top: -70vh;
+    position: relative;
+}
+
+.container{
+    background-color: black;
+    color: white;
+}
